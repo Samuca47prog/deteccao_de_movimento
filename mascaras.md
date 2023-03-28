@@ -1,3 +1,6 @@
+Cada máscara aplica um algorítmo diferente para identificar os pixels que se movem na imagem
+
+
 # KNN
 
 KNN é um modelo de aprendizado de máquina que busca encontrar as k correspondências mais próximas para determinar a qual classe pertence um item. Um exemplo: temos uma matriz de pixels brancos e pretos, na qual os brancos representam um objeto qualquer e os pretos o plano de fundo, como mostrado na imagem abaixo:
